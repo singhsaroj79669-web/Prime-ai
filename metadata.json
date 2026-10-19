@@ -1,0 +1,6 @@
+{
+  "name": "PrimeXzerox AI",
+  "description": "Next-generation bilingual AI chatbot supporting English and Hindi conversations, voice input, image analysis, and intelligent memory.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
